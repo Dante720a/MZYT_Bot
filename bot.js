@@ -19,7 +19,7 @@ else {
 
 console.log('secon-bot server started...');
 
-// Make sure it is public or set to Anyone with link can viewI 
+// Make sure it is public or set to Anyone with link can view 
 // "od6" is the fist worksheet in the spreadsheet
 var WrkSheet01 = "https://spreadsheets.google.com/feeds/list/" + config.googleSheetKey + "/1/public/values?alt=json";
 var WrkSheet02 = "https://spreadsheets.google.com/feeds/list/" + config.googleSheetKey + "/2/public/values?alt=json";
